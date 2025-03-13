@@ -7,7 +7,7 @@ mention in your recipe. The recipe can include additional recipe they didn't men
 not to include too many extra ingredients. Format your response in markdown to make it easier to
 render on a web page.
 `
-const hf = new HfInference('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')
+const hf = new HfInference(HF_TOKEN)
 
 
 
