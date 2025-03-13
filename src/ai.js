@@ -62,5 +62,3 @@ export async function getRecipeFromLlama(ingredientsArr) {
 //         console.error("API Request Error:", err)
 //     }
 // }
-
-// const HF_ACCESS_TOKEN = "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";
